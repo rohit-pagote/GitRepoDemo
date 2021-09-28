@@ -1,5 +1,7 @@
 Welcome to Git.
 
-Changes.
+Changes
 
-changed to fix bug1.
+changed to fix bug1
+
+changes to fix bug2.
