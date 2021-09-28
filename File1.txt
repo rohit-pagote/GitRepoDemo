@@ -1,7 +1,2 @@
 Welcome to Git.
 
-Changes:.
-
-changed: to fix bug1.
-
-change: by team mater for WI4.
