@@ -1,9 +1,12 @@
 Welcome to Git.
 
+
 1. WI5: stashed working
 
-2. change: for WI5 from local master to remote master normal push
+2. change:- for WI5 from local master to remote master normal push
 
-3. change: for WI6 by teammate on remote master to check pull
+3. change:- for WI6 by teammate on remote master to check pull
 
-4. change: for CR3 by teammate on remote master to check rebase
+4. change:- for CR3 by teammate on remote master to check rebase
+
+5. change:- for bug3 on local master to check rebase
