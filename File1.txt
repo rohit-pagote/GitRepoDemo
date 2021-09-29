@@ -1,7 +1,9 @@
 Welcome to Git.
 
-WI5: stashed working
+1. WI5: stashed working
 
-change: for WI5 from local master to remote master normal push
+2. change: for WI5 from local master to remote master normal push
 
-change: for WI6 by teammate on remote master to check pull
+3. change: for WI6 by teammate on remote master to check pull
+
+4. change: for CR3 by teammate on remote master to check rebase
